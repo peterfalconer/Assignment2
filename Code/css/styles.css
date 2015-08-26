@@ -90,25 +90,27 @@ header {
 	padding-top: 10px;
 }
 
+.appname {
+	font-size: 24px;
+}
+
 #appname-bottom {
 	color: #f9e42e;
 	width: 10%;
 	position: relative;
-	left: 45%;
+	left: 47%;
 }
 
 #tw-icon {	
-	left: 47%;
+	left: 46%;
 }
 
 #fb-icon {
 	left: 48%;
 	padding-top: 5px;
+	padding-left: 10px;
 }
 
-.appname {
-	font-size: 24px;
-}
 
 .extra-bold {
 	font-weight: 800;
@@ -118,14 +120,19 @@ header {
 	font-weight: 600;
 }
 
+footer {
+	height: 190px;
+}
+
 .socialmedia-icon {
 	position:relative;
+	float: left;
 }
 
 #copyright {
 	font-size: 9px;
 	position: relative;
 	text-align: center;
-	padding-top: 5px;
+	padding-top: 100px;
 	padding-bottom: 5px;
 }
